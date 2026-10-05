@@ -20,3 +20,5 @@ PAGES
 - profitability.html — Customer profitability demo
 - services.html — Business solutions catalog
 - about.html — Product/technical architecture explanation
+
+competitive.html - Competitive Intelligence mockup: local market scorecard, search/review intelligence, competitor changes and recommended actions.
